@@ -1,0 +1,28 @@
+/* 
+Element selector
+p{
+	property :value;
+}
+	*/
+	P{
+		font-family:'Times New Roman', Times, serif;
+		font-size: large;
+		font-weight: bold;
+		text-align: center;
+		color: brown;
+		text: shadow 2px, 2px, 5px;
+	}
+	h2{
+		color: blue;
+
+
+	}
+	/*
+	 id is unique within the page
+	 */
+	 #p1{
+		color: coral(197, 94, 20);
+	 }
+	 .prod{
+		color: aqua(27, 158, 158);
+	 }
